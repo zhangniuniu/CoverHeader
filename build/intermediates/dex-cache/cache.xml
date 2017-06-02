@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items version="2" >
+
+    <item
+        is-multidex="true"
+        jar="/Users/zhangyong/Documents/GitHub/CoverHeader/app/build/intermediates/incremental-classes/debug/instant-run-bootstrap.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.3"
+        sha1="9ccc80b48c3880c905a34829f6f8055f0c45f9b7">
+        <dex dex="/Users/zhangyong/Documents/GitHub/CoverHeader/app/build/intermediates/transforms/dex/debug/folders/1000/10000/instant-run-bootstrap_edb2054c3e558cc121405369b023dfd2597d5b89/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/zhangyong/Documents/GitHub/CoverHeader/app/build/intermediates/incremental-runtime-classes/debug/instant-run.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.3"
+        sha1="c82741bc129dd5f99f11a4ab8666ae24262053b6">
+        <dex dex="/Users/zhangyong/Documents/GitHub/CoverHeader/app/build/intermediates/transforms/dex/debug/folders/1000/10000/instant-run_77c110078669f8f14a8b3668260fbf0be2022246/classes.dex" />
+    </item>
+
+</items>

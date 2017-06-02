@@ -1,0 +1,7 @@
+#Fri Jun 02 15:33:42 CST 2017
+base.0=/Users/zhangyong/Documents/GitHub/CoverHeader/app/build/intermediates/transforms/dex/debug/folders/1000/10000/instant-run_77c110078669f8f14a8b3668260fbf0be2022246
+renamed.1=classes.dex
+renamed.0=classes2.dex
+file.1=/Users/zhangyong/Documents/GitHub/CoverHeader/app/build/intermediates/transforms/dex/debug/folders/1000/10000/instant-run-bootstrap_edb2054c3e558cc121405369b023dfd2597d5b89/classes.dex
+base.1=/Users/zhangyong/Documents/GitHub/CoverHeader/app/build/intermediates/transforms/dex/debug/folders/1000/10000/instant-run-bootstrap_edb2054c3e558cc121405369b023dfd2597d5b89
+file.0=/Users/zhangyong/Documents/GitHub/CoverHeader/app/build/intermediates/transforms/dex/debug/folders/1000/10000/instant-run_77c110078669f8f14a8b3668260fbf0be2022246/classes.dex

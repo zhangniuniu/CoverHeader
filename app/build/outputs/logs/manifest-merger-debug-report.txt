@@ -1,0 +1,73 @@
+-- Merging decision tree log ---
+manifest
+ADDED from /Users/zhangyong/Documents/GitHub/CoverHeader/app/src/main/AndroidManifest.xml:2:1-21:12
+	package
+		ADDED from /Users/zhangyong/Documents/GitHub/CoverHeader/app/src/main/AndroidManifest.xml:3:5-43
+		INJECTED from /Users/zhangyong/Documents/GitHub/CoverHeader/app/src/main/AndroidManifest.xml
+		INJECTED from /Users/zhangyong/Documents/GitHub/CoverHeader/app/src/main/AndroidManifest.xml
+	android:versionName
+		INJECTED from /Users/zhangyong/Documents/GitHub/CoverHeader/app/src/main/AndroidManifest.xml
+		INJECTED from /Users/zhangyong/Documents/GitHub/CoverHeader/app/src/main/AndroidManifest.xml
+	xmlns:android
+		ADDED from /Users/zhangyong/Documents/GitHub/CoverHeader/app/src/main/AndroidManifest.xml:2:11-69
+	android:versionCode
+		INJECTED from /Users/zhangyong/Documents/GitHub/CoverHeader/app/src/main/AndroidManifest.xml
+		INJECTED from /Users/zhangyong/Documents/GitHub/CoverHeader/app/src/main/AndroidManifest.xml
+application
+ADDED from /Users/zhangyong/Documents/GitHub/CoverHeader/app/src/main/AndroidManifest.xml:5:5-19:19
+MERGED from [com.android.support:appcompat-v7:25.1.1] /Users/zhangyong/.android/build-cache/913a7ca583b6a0258920338858b2168f80711aa5/output/AndroidManifest.xml:25:5-20
+MERGED from [com.android.support:support-v4:25.1.1] /Users/zhangyong/.android/build-cache/d13f0c271c4c53293e5fc2b7dcfa7d5c1a6f03cd/output/AndroidManifest.xml:25:5-20
+MERGED from [com.android.support:support-fragment:25.1.1] /Users/zhangyong/.android/build-cache/6782a56645f5b6a9850d73dd6be2a8851cd19d27/output/AndroidManifest.xml:25:5-20
+MERGED from [com.android.support:support-media-compat:25.1.1] /Users/zhangyong/.android/build-cache/273e60717642ba3676e7098ca50201d0fab195cd/output/AndroidManifest.xml:25:5-20
+MERGED from [com.android.support:support-core-ui:25.1.1] /Users/zhangyong/.android/build-cache/7713efebba3be058314b27906523fc958926533a/output/AndroidManifest.xml:25:5-20
+MERGED from [com.android.support:support-core-utils:25.1.1] /Users/zhangyong/.android/build-cache/8acab64939bd05f99f6b5430cae8175f91ea731c/output/AndroidManifest.xml:25:5-20
+MERGED from [com.android.support:animated-vector-drawable:25.1.1] /Users/zhangyong/.android/build-cache/f1ba2021d5a3e132bbeaf47cc2efb5e6b5e91dc3/output/AndroidManifest.xml:22:5-20
+MERGED from [com.android.support:support-vector-drawable:25.1.1] /Users/zhangyong/.android/build-cache/9feb56a02ab3175ffc44827e8454f187d51635f2/output/AndroidManifest.xml:23:5-20
+MERGED from [com.android.support:support-compat:25.1.1] /Users/zhangyong/.android/build-cache/2397447605e1dbdefbd77af97ec8d64b57de6431/output/AndroidManifest.xml:25:5-20
+MERGED from [com.android.support.constraint:constraint-layout:1.0.0-alpha9] /Users/zhangyong/.android/build-cache/164ec744969b335212e874d88d795c56813b6f2e/output/AndroidManifest.xml:9:5-20
+	android:label
+		ADDED from /Users/zhangyong/Documents/GitHub/CoverHeader/app/src/main/AndroidManifest.xml:8:9-41
+	android:supportsRtl
+		ADDED from /Users/zhangyong/Documents/GitHub/CoverHeader/app/src/main/AndroidManifest.xml:10:9-35
+	android:roundIcon
+		ADDED from /Users/zhangyong/Documents/GitHub/CoverHeader/app/src/main/AndroidManifest.xml:9:9-54
+	android:allowBackup
+		ADDED from /Users/zhangyong/Documents/GitHub/CoverHeader/app/src/main/AndroidManifest.xml:6:9-35
+	android:icon
+		ADDED from /Users/zhangyong/Documents/GitHub/CoverHeader/app/src/main/AndroidManifest.xml:7:9-43
+	android:theme
+		ADDED from /Users/zhangyong/Documents/GitHub/CoverHeader/app/src/main/AndroidManifest.xml:11:9-40
+activity#test.zhangniuniu.coverheader.Main2Activity
+ADDED from /Users/zhangyong/Documents/GitHub/CoverHeader/app/src/main/AndroidManifest.xml:12:9-18:20
+	android:name
+		ADDED from /Users/zhangyong/Documents/GitHub/CoverHeader/app/src/main/AndroidManifest.xml:12:19-48
+intent-filter#android.intent.action.MAIN+android.intent.category.LAUNCHER
+ADDED from /Users/zhangyong/Documents/GitHub/CoverHeader/app/src/main/AndroidManifest.xml:13:13-17:29
+action#android.intent.action.MAIN
+ADDED from /Users/zhangyong/Documents/GitHub/CoverHeader/app/src/main/AndroidManifest.xml:14:17-69
+	android:name
+		ADDED from /Users/zhangyong/Documents/GitHub/CoverHeader/app/src/main/AndroidManifest.xml:14:25-66
+category#android.intent.category.LAUNCHER
+ADDED from /Users/zhangyong/Documents/GitHub/CoverHeader/app/src/main/AndroidManifest.xml:16:17-77
+	android:name
+		ADDED from /Users/zhangyong/Documents/GitHub/CoverHeader/app/src/main/AndroidManifest.xml:16:27-74
+uses-sdk
+INJECTED from /Users/zhangyong/Documents/GitHub/CoverHeader/app/src/main/AndroidManifest.xml reason: use-sdk injection requested
+MERGED from [com.android.support:appcompat-v7:25.1.1] /Users/zhangyong/.android/build-cache/913a7ca583b6a0258920338858b2168f80711aa5/output/AndroidManifest.xml:21:5-23:78
+MERGED from [com.android.support:support-v4:25.1.1] /Users/zhangyong/.android/build-cache/d13f0c271c4c53293e5fc2b7dcfa7d5c1a6f03cd/output/AndroidManifest.xml:21:5-23:54
+MERGED from [com.android.support:support-fragment:25.1.1] /Users/zhangyong/.android/build-cache/6782a56645f5b6a9850d73dd6be2a8851cd19d27/output/AndroidManifest.xml:21:5-23:60
+MERGED from [com.android.support:support-media-compat:25.1.1] /Users/zhangyong/.android/build-cache/273e60717642ba3676e7098ca50201d0fab195cd/output/AndroidManifest.xml:21:5-23:63
+MERGED from [com.android.support:support-core-ui:25.1.1] /Users/zhangyong/.android/build-cache/7713efebba3be058314b27906523fc958926533a/output/AndroidManifest.xml:21:5-23:58
+MERGED from [com.android.support:support-core-utils:25.1.1] /Users/zhangyong/.android/build-cache/8acab64939bd05f99f6b5430cae8175f91ea731c/output/AndroidManifest.xml:21:5-23:61
+MERGED from [com.android.support:animated-vector-drawable:25.1.1] /Users/zhangyong/.android/build-cache/f1ba2021d5a3e132bbeaf47cc2efb5e6b5e91dc3/output/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-vector-drawable:25.1.1] /Users/zhangyong/.android/build-cache/9feb56a02ab3175ffc44827e8454f187d51635f2/output/AndroidManifest.xml:21:5-43
+MERGED from [com.android.support:support-compat:25.1.1] /Users/zhangyong/.android/build-cache/2397447605e1dbdefbd77af97ec8d64b57de6431/output/AndroidManifest.xml:21:5-23:58
+MERGED from [com.android.support.constraint:constraint-layout:1.0.0-alpha9] /Users/zhangyong/.android/build-cache/164ec744969b335212e874d88d795c56813b6f2e/output/AndroidManifest.xml:5:5-7:41
+	tools:overrideLibrary
+		ADDED from [com.android.support:appcompat-v7:25.1.1] /Users/zhangyong/.android/build-cache/913a7ca583b6a0258920338858b2168f80711aa5/output/AndroidManifest.xml:23:9-75
+	android:targetSdkVersion
+		INJECTED from /Users/zhangyong/Documents/GitHub/CoverHeader/app/src/main/AndroidManifest.xml
+		INJECTED from /Users/zhangyong/Documents/GitHub/CoverHeader/app/src/main/AndroidManifest.xml
+	android:minSdkVersion
+		INJECTED from /Users/zhangyong/Documents/GitHub/CoverHeader/app/src/main/AndroidManifest.xml
+		INJECTED from /Users/zhangyong/Documents/GitHub/CoverHeader/app/src/main/AndroidManifest.xml
